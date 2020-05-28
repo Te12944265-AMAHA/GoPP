@@ -1,3 +1,9 @@
+'''
+Apply reinforcement learning to the gomoku game
+
+@author: Tina
+'''
+
 import pygame 
 import math
 from Colors import *
