@@ -2,7 +2,7 @@ import pygame
 import math
 from Colors import *
 from MyImages import *
-import Constants as c
+import util as c
 from pykinect2 import PyKinectV2, PyKinectRuntime
 from pykinect2.PyKinectV2 import *
 
